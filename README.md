@@ -32,8 +32,4 @@ It aims to mark where exploration has *finished*.
 
 ## License
 
-The definition and conceptual content in this repository are dedicated to the public domain under **CC0 1.0**.
-
-You may use, copy, modify, distribute, and build upon this material for any purpose, without restriction or attribution.
-
-https://creativecommons.org/publicdomain/zero/1.0/
+The definition and conceptual content in this repository are dedicated to the public domain under **[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)**.
